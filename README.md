@@ -1,6 +1,6 @@
 ## Olá, Me chamo Rafael 👋
 
-<div>
+<div style="display: flex; justify-content: center; ">
 <img width="224" height="224" alt="ClipWindowsGIF (2)" src="https://github.com/user-attachments/assets/70854134-6338-47e1-b714-6b4ce52de372" />
 </div>
 
