@@ -11,7 +11,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0f4el&layout=compact&theme=dracula" />
 </div>
 
+<img src="https://streak-stats.demolab.com?user=0f4el&theme=dracula" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=dracula&row=1" />
+
+<a href="https://www.linkedin.com/in/rafael-eloisio-39a4173a6/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ## 👨‍💻 Sobre mim
 
