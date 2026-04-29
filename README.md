@@ -7,8 +7,8 @@
 - Estou cursando Técninco em Desenvolvitmento Web no SENAI.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0f4el&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0f4el&layout=compact&theme=dracula" />
 </div>
 
 
