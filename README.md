@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Atualmente cursando Técninco em Desenvolvitmento Web no SENAI.
+- 🔭 Atualmente cursando Técninco em Desenvolvitmento Web no SENAI
 - 🌱 Aprendendo a ser um Dev
 - ✔️ Sempre evoluindo
 - 💬 Qualquer dúvida é so contatar
